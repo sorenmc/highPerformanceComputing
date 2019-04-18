@@ -22,8 +22,10 @@ PROGRAM ones
     ALLOCATE(neighborArray(dim,dim))
     do i = 1, dim,1
         do j = 1, dim,1
-            if (neighbors(squareArray,i,j,dim) > 2) then
+            if (neighbors(squareArray,i,j,dim) > 2) THEN
                 neighborArray(i,j) = 1
+            else 
+                neighborArray(i,j) = 0
             end if
         end do
     end do
