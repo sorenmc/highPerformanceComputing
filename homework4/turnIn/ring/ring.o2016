@@ -1,0 +1,18 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+ message sent:           5 from processor           0 to processor           1
+ message received:           5 on processor           1 from processor           0
+ message sent:           5 from processor           1 to processor           2
+ message received:           5 on processor           2 from processor           1
+ message sent:           5 from processor           2 to processor           3
+ message received:           5 on processor           3 from processor           2
+ message sent:           5 from processor           3 to processor           4
+ message received:           5 on processor           4 from processor           3
+ message sent:           5 from processor           4 to processor           5
+ message received:           5 on processor           5 from processor           4
+ message sent:           5 from processor           5 to processor           6
+ message received:           5 on processor           6 from processor           5
+ message sent:           5 from processor           6 to processor           7
+ message received:           5 on processor           7 from processor           6
+ message sent:           5 from processor           7 to processor           0
+ message received:           5 on processor           0 from processor           7

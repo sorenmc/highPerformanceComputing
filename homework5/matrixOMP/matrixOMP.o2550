@@ -1,0 +1,10 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+ A is  0.99755955      0.56682467      7.37542510E-02  0.74792767    
+ B is  0.48063689      0.96591532      5.35517931E-03  0.36739087    
+ with manual matrix multiplication C is  0.55070430      0.99487168      3.24387476E-02  0.27781725    
+ minvalue of array C is  3.24387476E-02 and location of that value is   1.0000000       2.0000000    
+ it took   0.0000000000000000      for the manual calculation
+ C is  0.55070430      0.99487168      3.24387476E-02  0.27781725    
+ minvalue of array C is  3.24387476E-02 and location of that value is   1.0000000       2.0000000    
+ it took  1.00000000000000002E-003 for the built in calculation

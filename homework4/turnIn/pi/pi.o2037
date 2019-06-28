@@ -1,0 +1,7 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+ local value of 1/4 pi is:  0.78700000     on processor           0
+ Estimated value of PI is:   3.1480000    
+ local value of 1/4 pi is:  0.78700000     on processor           1
+ local value of 1/4 pi is:  0.78700000     on processor           2
+ local value of 1/4 pi is:  0.78700000     on processor           3

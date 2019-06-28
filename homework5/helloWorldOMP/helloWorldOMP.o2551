@@ -1,0 +1,10 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+ Thread           6 says hello world!
+ Thread           7 says hello world!
+ Thread           1 says hello world!
+ Thread           4 says hello world!
+ Thread           5 says hello world!
+ Thread           0 says hello world!
+ Thread           2 says hello world!
+ Thread           3 says hello world!

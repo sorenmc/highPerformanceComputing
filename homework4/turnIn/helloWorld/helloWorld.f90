@@ -1,7 +1,7 @@
 PROGRAM helloWorld
 INCLUDE 'mpif.h'
 
-INTEGER :: ierr, rank,nNodes,i
+INTEGER ierr, rank,nNodes,i
 
 !initialize MPI
 CALL MPI_INIT(ierr);
